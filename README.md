@@ -32,7 +32,7 @@ This project is fully optimized for an immersive experience across **mobile, tab
 
 ```bash
 git clone https://github.com/testfordb/game-website
-cd game-websitegamer-showcase
+cd game-website
 ```
 
 ### 2️⃣ Install dependencies
